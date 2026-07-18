@@ -104,6 +104,5 @@ A simple Python application that simulates a virtual coin toss using Python's bu
 
 ---
 
-Author
-
-Ayush Singh
+# Author
+Ayush Singh https://github.com/ayush893singh
