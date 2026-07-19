@@ -4,7 +4,7 @@ A simple Python project that simulates a single coin toss. The program randomly 
 
 ---
 
-Features
+# Features
 
 - Flip a virtual coin
 - Randomly display Heads or Tails
@@ -13,13 +13,13 @@ Features
 
 ---
 
-Technologies Used
+# Technologies Used
 
 - Python
 
 ---
 
-Concepts Used
+# Concepts Used
 
 This project uses:
 
@@ -31,7 +31,7 @@ This project uses:
 
 ---
 
-Installation
+# Installation
 
 1. Install Python on your computer.
 2. Download or clone this repository.
@@ -39,13 +39,13 @@ Installation
 
 ---
 
-How to Run
+# How to Run
 
 python main.py
 
 ---
 
-How It Works
+# How It Works
 
 1. Run the program.
 2. Press Enter to flip the coin.
@@ -54,7 +54,7 @@ How It Works
 
 ---
 
-Example Output
+# Example Output
 
 ===== Coin Toss Simulator =====
 
@@ -81,7 +81,7 @@ Coin-Toss-Simulator/
 
 ---
 
-Future Improvements
+# Future Improvements
 
 - Add user guess (Heads/Tails)
 - Track total wins and losses
@@ -98,7 +98,7 @@ coin-toss-simulator
 
 ---
 
-Repository Description
+# Repository Description
 
 A simple Python application that simulates a virtual coin toss using Python's built-in "random" module.
 
