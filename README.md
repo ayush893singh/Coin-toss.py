@@ -92,12 +92,6 @@ Coin-Toss-Simulator/
 
 ---
 
-Repository Name
-
-coin-toss-simulator
-
----
-
 # Repository Description
 
 A simple Python application that simulates a virtual coin toss using Python's built-in "random" module.
