@@ -80,18 +80,6 @@ Coin-Toss-Simulator/
 └── README.md
 
 ---
-
-# Future Improvements
-
-- Add user guess (Heads/Tails)
-- Track total wins and losses
-- Flip multiple coins
-- Display toss history
-- Calculate Heads and Tails percentages
-- Best of 3 / Best of 5 mode
-
----
-
 # Repository Description
 
 A simple Python application that simulates a virtual coin toss using Python's built-in "random" module.
