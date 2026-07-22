@@ -3,6 +3,11 @@
 A simple Python project that simulates a single coin toss. The program randomly flips a virtual coin and displays either Heads or Tails.
 
 ---
+# Repository Description
+
+A simple Python application that simulates a virtual coin toss using Python's built-in "random" module.
+
+---
 
 # Features
 
@@ -78,11 +83,6 @@ Coin-Toss-Simulator/
 │
 ├── main.py
 └── README.md
-
----
-# Repository Description
-
-A simple Python application that simulates a virtual coin toss using Python's built-in "random" module.
 
 ---
 
